@@ -1,4 +1,4 @@
 ## Bienvenido a mi perfil 👋
 * **Nombre**: *Santiago Tejeda*
 * **Curso**: *5to 1ra Avionica*
-* **Hobby**: *Mirar el piso* 
+* **Hobby**: *Mirar el techo* 
