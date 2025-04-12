@@ -21,32 +21,77 @@
   ```
 
 <br>
+  <h2 align="center">👨🏻‍💻Lenguages👨🏻‍💻</h2>
+    <p align="center">
+      <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+      <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+  </p>
+</br>
 
-  <h2 >Skills👨🏻‍💻</h2>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-  <p align="left">
-  <div align="center">
- 
-  <a > 
-      <img src="https://skillicons.dev/icons?i=python,cpp,c,html">
-  </a>
+<h2 align="center">💾Embedded💾</h2>
+  <p align="center">
+    <a href="#"><img alt="RaspberryPi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+  </p>
 
 <br>
-
-  <h3 align="left">Connect with me:</h3> 
-    <p align="left">
+  <h2 align="center">📄Connect with me:📄</h2>
+    <p align="center">
       <a href="https://www.linkedin.com/in/santiago-tejeda/" target="blank"><img align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="adam pithewan" height="30" width="40" /></a>
-    <a href="https://instagram.com/santiago.teje" target="blank"><img align="center"
+      <a href="https://instagram.com/santiago.teje" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
     alt="_._.adam._" height="30" width="40" /></a>
   </p>
+</br>
 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/santiagoatejeda">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagoatejeda&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/santiagoatejeda">
+          <img align="center" src="https://streak-stats.demolab.com?user=santiagoatejeda&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/santiagoatejeda/pleper">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=santiagoatejeda&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/santiagoatejeda">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=santiagoatejeda&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 <br>
-
-<div style="display:grid;align-items:center;justify-content:center">
+  <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=santiagoatejeda&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoatejeda&layout=compact&theme=gotham&langs_count=8"/>
 </div>
