@@ -10,12 +10,16 @@
   class Presentación():
     
     def __init__(self):
+
       self.name = "Santiago Tejeda";
       self.username = "santiagoatejeda";
-      self.location = "Argentina, Buenos Aires";
       self.instagram = "@santiago.teje";
+      self.location = "Argentina, Buenos Aires";
+      self.occupation = "currently studying 7th year of avionics technical studies";
+      self.carrer = "future computer science graduate";
   
         def __str__(self):
+
   return self.name
 
   ```
