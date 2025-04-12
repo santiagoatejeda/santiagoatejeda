@@ -1,67 +1,57 @@
-<h1 align="center">
-  <b>Abhigyan Trips</b>
-</h1>
-
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
-
-<br>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=150&section=header&text=%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
 </div>
-</p>
 
-```python
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+<h2> About Me </h2> 
   
-  def __str__(self):
-    return self.name
+  ```python
 
-if __name__ == '__main__':
-    me = AbhigyanTrips()
-```
+  class Presentación():
+    
+    def __init__(self):
+      self.name = "Santiago Tejeda";
+      self.username = "santiagoatejeda";
+      self.location = "Argentina, Buenos Aires";
+      self.instagram = "@santiago.teje";
+  
+        def __str__(self):
+  return self.name
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+  ```
 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+  <h2 >Skills👨🏻‍💻</h2>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+  <p align="left">
+  <div align="center">
+ 
+  <a > 
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,html">
+  </a>
 
-------
+<br>
 
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
+  <h3 align="left">Connect with me:</h3> 
+    <p align="left">
+      <a href="https://www.linkedin.com/in/santiago-tejeda/" target="blank"><img align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="adam pithewan" height="30" width="40" /></a>
+    <a href="https://instagram.com/santiago.teje" target="blank"><img align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+    alt="_._.adam._" height="30" width="40" /></a>
+  </p>
 
-Last Edited on: 24/12/2021
+
+<br>
+
+<div style="display:grid;align-items:center;justify-content:center">
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=santiagoatejeda&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoatejeda&layout=compact&theme=gotham&langs_count=8"/>
+</div>
+
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=150&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
