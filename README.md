@@ -21,7 +21,7 @@
   ```
 
 <br>
-  <h2 align="center">👨🏻‍💻Lenguages👨🏻‍💻</h2>
+  <h2 align="center">👨🏻‍💻Languages👨🏻‍💻</h2>
     <p align="center">
       <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
       <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
@@ -73,8 +73,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/santiagoatejeda/pleper">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=santiagoatejeda&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
         </a>
       </p>
     </td>
