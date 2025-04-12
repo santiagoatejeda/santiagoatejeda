@@ -89,12 +89,6 @@
 </table>
 <br />
 
-<br>
-  <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=santiagoatejeda&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoatejeda&layout=compact&theme=gotham&langs_count=8"/>
-</div>
-
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=150&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
