@@ -16,7 +16,7 @@
       self.instagram = "@santiago.teje";
       self.location = "Argentina, Buenos Aires";
       self.occupation = "currently studying 7th year of avionics technical studies";
-      self.carrer = "future computer science graduate";
+      self.career = "future electronics engineer";
   
         def __str__(self):
 
